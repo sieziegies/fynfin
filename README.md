@@ -1,1 +1,1 @@
-# fynfin
+# FYNfin
